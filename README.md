@@ -148,8 +148,7 @@ This project is Presale and Staking Platform for Pepe coin on Ethereum and Binan
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 - Github repo:
+  - Frontend: <a href="https://github.com/touchsky000111/Fantasy-Pepe">pepe-mint-frontend-avax</a>
   - Contract: <a href="https://github.com/touchsky000111/pepe-mint-contract-avax">pepe-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/touchsky000111/pepe-mint-backend-avax">pepe-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/touchsky000111/pepe-mint-frontend-avax">pepe-mint-frontend-avax</a>
 
 
