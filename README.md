@@ -77,121 +77,70 @@ Features
 
 <h3><u><strong><i>Telegram mini app Game</i></strong></u> &nbsp; - Binance Smart Chain</h3>
 <hr />
-<img align="right" width="150px" src="./assets/mini-project-1.png">
-<img align="right" width="150px" src="./assets/mini-project-2.png">
+<img align="right" width="300px" src="./assets/mini-project-1.png">
  This innovative mini app seamlessly blends entertainment and opportunity, making it the perfect launchpad for our upcoming token. Don’t miss your chance to be part of a vibrant community and secure early access to valuable tokens. Join now and turn your gameplay into real-world gains!
 
-
+- Front-end Framework: React Vite
+- Back-end Framework: NodeJs
+- Blockchain Network: Binance Smart Chain
 
 - Live: <a href="https://justshift.io">JustShift</a>
 - Fe-repo: <a href="https://github.com/touchsky000111/Opullenx-TG-mini-app-Bot-Backend">Telegram Mini app Game</a>
 
 
-
-
-
-
-
-<h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i> Solana Mev Bot</i></strong></u> &nbsp; - Solana</h3>
 
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/ce3b3600-e1a0-470c-a3aa-e566ff3e1ec0.png">
+<img align="right" width="300px" src="./assets/Solana-MevBot.gif">
 
-Gift for pixel artists.
-Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
+This high-performance MEV bot delivers strategic edge through validator-node-level front-running, leveraging Solana's speed for real-time arbitrage and transaction pool dominance. Built exclusively for validator operators, it combines low-latency infrastructure with adaptive algorithms to optimize transaction ordering.
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
 - Frontend repo: <a href="https://github.com/asseph/spritebox">Spritebox-frontend</a>
 - Backend repo: <a href="https://github.com/asseph/sprite-box-backend">Spritebox-brontend</a>
 
-<h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
+
+<h3><u><strong><i>Pepe NFT Generate app</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/4ad9e24f-86a2-4edf-b791-2206e38bcd00.png">
+This is a NFT Generate Project on Ethereum
 
-Successfully audited backend.
-Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
+<img align="right" width="300px" src="./assets/pepe.png">
 
-- Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
-- Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
-- Contract program repo: <a href="https://github.com/asseph/hoopas-staking">Hoopas-lock-contract</a>
-- Frontend repo: <a href="https://github.com/asseph/hoopas">Hoopas-lock-frontend</a>
+Project was developed with NextJS@14 and the smart contract was developed with Hardhat framework and Solidity program language.
+Token is ERC-721 and ERC-1155 standard in Openzepplin.
 
-<br/>
-
-<h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is a Lootbox game for `TombStoned`.
-There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/631592c1-406c-43b4-b6b9-9c775712cd0f.png">
-
-I built backend & smart contract as well as supported web3 integration to front-end.
-
-- Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
+- Live: <a href="https://littlepepe.com">Pepe</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/asseph/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/asseph/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
-
-
-
-<h3><u><strong><i>Soblin staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/f76afa64-3307-4366-8e62-66da70ad6c84.png">
-
-I wrote smart contract and supported web3 integration to front-end.
-
-- Live: <a href="https://staking.soblins.io">Soblins staking</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/asseph/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/asseph/SoblinsStaking-FE">SoblinsStaking-frontend</a>
-
-
-<h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
-
-Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
-I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
-
-- Live: <a href="https://www.monopoly.cafe">Monopoly</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/asseph/monopoly-program">monopoly-program</a>
+  - smart contract repo: <a href="https://github.com/touchsky000111/Ethereum-AI-NFT-Marketing-Place">Pepe NFT Smart Contract</a>
   - backend repo: <a href="https://github.com/asseph/monopoly-backend">monopoly-backend</a>
   - frontend repo: <a href="https://github.com/asseph/monopoly-frontend">monopoly-frontend</a>
 
 
-<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Bull Token Pre-sale Platform</i></strong></u> &nbsp;(Binance Smart Chain)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
-
-This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
-
-- Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
-- Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Frontend repo: <a href="https://github.com/asseph/deezkits-fe">deezkits-fe</a>
-- Smart contract repo: <a href="https://github.com/asseph/deezkits-contract">deezkits-contract</a>
+<img align="right" width="300px" src="./assets/BTCBullToken.png">
 
 
 
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
+- Live: <a href="https://btcbulltoken.com/">BTCBullToken.png</a>
+- Frontend repo: <a href="https://github.com/touchsky000111/BullBtc-Presale">deezkits-fe</a>
+- Smart contract repo: <a href="https://github.com/touchsky000111/Ethereum-ERC-20-Staking-Contract">deezkits-contract</a>
+
+
+
+<h3><u><strong><i>Fantasy Pepe</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
+This project is Presale and Staking Platform for Pepe coin on Ethereum and Binance Smart chaain
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
+<img align="right" width="300px" src="./assets/fantasy-pepepng.png">
 
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
+- Demo: <a href="https://fepe-site.vercel.app">Fantasy Pepe</a>
+- Live: <a href="https://fantasypepe.com/">Fantasy Pepe</a>
   - Functionality
     - 500 NFTs
     - Mint price is 100 USDC
@@ -200,9 +149,9 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 - Github repo:
-  - Contract: <a href="https://github.com/asseph/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/asseph/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/asseph/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+  - Contract: <a href="https://github.com/touchsky000111/dale-mint-contract-avax">dale-mint-contract-avax</a>
+  - Backend: <a href="https://github.com/touchsky000111/dale-mint-backend-avax">dale-mint-backend-avax</a>
+  - Frontend: <a href="https://github.com/touchsky000111/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
