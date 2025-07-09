@@ -125,9 +125,9 @@ Token is ERC-721 and ERC-1155 standard in Openzepplin.
 
 
 
-- Live: <a href="https://btcbulltoken.com/">BTCBullToken.png</a>
-- Frontend repo: <a href="https://github.com/touchsky000111/BullBtc-Presale">deezkits-fe</a>
-- Smart contract repo: <a href="https://github.com/touchsky000111/Ethereum-ERC-20-Staking-Contract">deezkits-contract</a>
+- Live: <a href="https://btcbulltoken.com/">BTCBullToken</a>
+- Frontend repo: <a href="https://github.com/touchsky000111/BullBtc-Presale">BTCBullToken Front-end</a>
+- Smart contract repo: <a href="https://github.com/touchsky000111/Ethereum-ERC-20-Staking-Contract">BTCBullToken Smart Contract</a>
 
 
 
