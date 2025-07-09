@@ -2,16 +2,26 @@
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
+
+<h3><u><strong><i>Perpetual Contract crypto Trading Platform on Ethereum</i></strong></u> &nbsp;- Trading Platform</h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./assets/crypto_marketplace.png">
+
+PumpBit is a comprehensive crypto trading platform designed to facilitate perpetual contract trading on the B2 network and offer a staking feature for liquidity pools. The platform is built using Next.js for the frontend, Node.js for the backend, and utilizes Hardhat for smart contract development. The backend integrates with the Binance API to fetch real-time cryptocurrency prices.
+
+- Live: <a href="https://testnet.pumpbit.io">Perpetual Contract crypto trading platform on B2 Network</a>
+- fe-repo: <a href="https://github.com/touchsky000111/Crypto-Trading-Platform-EVM">DeFi on B2 Network</a>
+- smart contract: <a href="https://github.com/touchsky000111/pumpbit-future-v2">Trading-smart-contract</a>
+
+
 <h3><u><strong><i>Orbit Solana Trading Bot</i></strong></u> &nbsp;- Solana Volume Bot</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./assets/solana_trading_bot.png">
 
-This project is an innovative gaming project built on the Solana blockchain network. In this game, players have the opportunity to acquire virtual loot boxes containing various in-game items, rewards, or assets using Solana's fast and low-cost transactions.
-
-Players can purchase these loot boxes using Solana's native cryptocurrency and unlock exciting surprises within them. Each loot box may contain unique digital assets, collectibles, skins, or other valuable items that can enhance the gaming experience or be traded within the game's ecosystem.
-
-The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
+Unlock the full potential of your trading strategy with Raydium Sniper Bot, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
 - fe-repo: <a href="https://github.com/touchsky000111/Solana-Raydium-Sniper-Bot">Solana Raydium Sniper Bot</a>
 
@@ -19,76 +29,68 @@ The project aims to leverage Solana's high-performance blockchain technology to 
 <h3><u><strong><i>Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/c526fa39-6155-45aa-941c-3894b7f82c98">
+<img align="right" width="300px" height="200px" src="./assets/DipHigh_project.png">
 
-Check out this Ethereum contract, just for the use-case of the program: https://github.com/Racks-Labs/ERC721-Linkable
+Check out this Ethereum contract, just for the use-case of the program: https://github.com/touchsky000111/Solana-Smart-Contract-DipHigh-Staking
 
-An NFT should be able to be initialized in a way where other NFTs can be linked and unlinked again from it.
-Instructions will be link, unlink, sync same as in erc721 example
-- Initialise PDA for NFT that other NFTs should be linked to
-- Link instructions 
- -- adds the linked NFT as address to the PDA of the main NFT.
- -- Freezes the NFT in the current users wallet and delegates authority to unfreeze and transfer to the PDA
-- Unlink unfreezes and removes PDA delegate again
-- Sync looks at a linked NFT of a main NFT. If the main NFT has a different owner than the linked NFT, the linked NFT is transferred to the new main NFT owner
+This Solana program revolutionizes SPL-Token staking by leveraging Anchor 0.29.0 and Rust for robust smart contracts, paired with TypeScript for seamless client-side testing. Built on the Solana blockchain, it offers a secure, efficient, and scalable staking solution for users.
 
-- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
+Resources
 
-<h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp;- Staking Platform</h3>
+- Initialise PDA for SPL-Token that other Tokens should be linked to
+
+<h3><u><strong><i>Solana Token Swap Platform</i></strong></u> &nbsp;- Dex Platform </h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/e83f3bc6-b19e-426c-9cd3-1779d0859d66">
+<img align="right" width="300px" height="200px" src="./assets/spl_token_swap.png">
 
-Launch PFP staking functionality for users to stake their profile pictures and earn passive $ELMNT. Collaborate with other projects to offer project-specific rewards for PFP stakers, fostering cross-community engagemen.
-Introduce different staking tiers with varying reward structures, encouraging long-term commitment
+This innovative platform revolutionizes SPL-Token trading by harnessing the power of Solana and Web3.js, providing a seamless and efficient swapping experience. Built with the latest Next.js version 14.0, it combines cutting-edge frontend capabilities with Solana's lightning-fast blockchain, ensuring fast, secure, and user-friendly transactions
 
-- Live: <a href="https://staking.elementalsnft.io">Elementals-Staking</a>
-- fe-repo: <a href="https://github.com/asseph/elemental-staking-fe">elemental-staking-fe</a>
-- smart contract: <a href="https://github.com/asseph/elementals-staking-contract">elementals-staking-contract</a>
+- Live: <a href="https://spl-token-swap.vercel.app">DepHigh-Token-Swap</a>
+- user-repo: <a href="https://github.com/touchsky000111/Solana-Spl-Token-Swap-Platform">DepHigh-Token-Swap</a>
 
-<h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
+<h3><u><strong><i>AI-NFT Marketing place</i></strong></u> &nbsp;- NFT Marketing place</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/ded7ab52-6225-4f52-8116-2042eb9fe799">
+<img align="right" width="300px" height="150px" src="./assets/AI_NFT_Marketplace.png">
 
-By earning Points you move up levels. Each level reached earns your shards into crystals. And the number of Crystals decided how much $GMRX you will be able to claim.
+This project is a smart contract for an NFT marketing place platform on Ethereum. Users can generate images with AI and then mint and collect them as NFTs.
 
-You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
+- Live: <a href="https://tweet2earn.xyz">nfprompt.io</a>
+- repo: <a href="https://github.com/touchsky000111/Ethereum-AI-NFT-Marketing-Place">AI-NFT Marketing place</a>
 
-- Live: <a href="https://gaimin.io">Gaimin</a>
-- user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
-- admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
-
-<h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
+<h3><u><strong><i>Omnibus-Wallet-mMoney Platform</i></strong></u> &nbsp; - DEX+CEX platform</h3>
 <hr />
 
-<img align="right" width="300px" height="150px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/f8b9471e-15e2-44f7-9822-6a3e5dbfbca5">
+<img align="right" width="300px" src="./assets/Omnibus.png">
 
-The vision of the project is to allow users to earn $ELMNT token by tweeting once per day for the public and twice for token holders.
 
-- Live: <a href="https://tweet2earn.xyz">Tweet2Earn</a>
-- repo: <a href="https://github.com/asseph/Elementals-V6">Elementals-T2E</a>
+This service provides a comprehensive API for managing cryptocurrency wallets, handling transactions, and interacting with the Solana blockchain. Built with Rust and Axum, it offers high performance, type safety, and scalability for blockchain applications.
 
-<h3><u><strong><i>Under World Lending</i></strong></u> &nbsp; - Bitcoin Ordinal Platform</h3>
+Features
+- Wallet Management: Create, retrieve, update, and delete both virtual and blockchain wallets
+- User Management: Associate wallets with users and manage user balances
+- Transaction Processing: Create and track financial transactions between wallets
+- Blockchain Integration: Interact with Solana blockchain for balance checking and wallet creation
+- Balance Reconciliation: Track and reconcile on-chain and off-chain balances
+- repo: <a href="https://github.com/touchsky000111/Omnibus-Wallet-mMoney/">Omnibus Wallet</a>
+
+<h3><u><strong><i>Telegram mini app Game</i></strong></u> &nbsp; - Binance Smart Chain</h3>
 <hr />
+<img align="right" width="150px" src="./assets/mini-project-1.png">
+<img align="right" width="150px" src="./assets/mini-project-2.png">
+ This innovative mini app seamlessly blends entertainment and opportunity, making it the perfect launchpad for our upcoming token. Don’t miss your chance to be part of a vibrant community and secure early access to valuable tokens. Join now and turn your gameplay into real-world gains!
 
-<img align="right" width="300px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/91a07b10-e7bc-4ef5-88d5-9135d76e0f30">
 
-
-The goal of this platform is to develop a cutting-edge lending and borrowing platform specifically designed for Bitcoin Non-Fungible Tokens (NFTs). The platform will leverage the latest technologies and industry best practices to provide users with a seamless and secure experience.
-
-- repo: <a href="https://github.com/asseph/BTC-NFT-Lending">BTC-NFT-Lending</a>
-
-<h3><u><strong><i>JustShift</i></strong></u> &nbsp; - DEX (Bitcoin, Ethereum, Monero)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/super1002/project-overview/assets/125123579/7d5bf3d5-fb5a-446f-8fab-cdc59602860a.png">
-
-The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience.
 
 - Live: <a href="https://justshift.io">JustShift</a>
-- Fe-repo: <a href="https://github.com/asseph/MetaSwap-FE">MetaSwap-FE</a>
-- Be-repo: <a href="https://github.com/asseph/MetaSwap-BE">MetaSwap-BE</a>
+- Fe-repo: <a href="https://github.com/touchsky000111/Opullenx-TG-mini-app-Bot-Backend">Telegram Mini app Game</a>
+
+
+
+
+
+
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
