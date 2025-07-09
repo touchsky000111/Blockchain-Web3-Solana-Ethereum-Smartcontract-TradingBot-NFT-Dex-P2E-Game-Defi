@@ -13,10 +13,10 @@ Players can purchase these loot boxes using Solana's native cryptocurrency and u
 
 The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
 
-- fe-repo: <a href="https://github.com/asseph/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
+- fe-repo: <a href="https://github.com/touchsky000111/Solana-Raydium-Sniper-Bot">Solana Raydium Sniper Bot</a>
 
 
-<h3><u><strong><i>E7L</i></strong></u> &nbsp;- Rust smart contract</h3>
+<h3><u><strong><i>Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects/assets/125123579/c526fa39-6155-45aa-941c-3894b7f82c98">
