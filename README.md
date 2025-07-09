@@ -1,9 +1,9 @@
-# <i>My past Blockchain projects</i>
+# ✌𝓟𝓻𝓮𝓿𝓲𝓸𝓾𝓼 𝓑𝓵𝓸𝓬𝓴𝓬𝓱𝓪𝓲𝓷 𝓟𝓻𝓸𝓳𝓮𝓬𝓽✌
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 
-<h3><u><strong><i>Perpetual Contract crypto Trading Platform on Ethereum</i></strong></u> &nbsp;- Trading Platform</h3>
+<h3><u><strong><i> ✅ Perpetual Contract crypto Trading Platform on Ethereum</i></strong></u> &nbsp;- Trading Platform</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./assets/crypto_marketplace.png">
@@ -15,7 +15,7 @@ PumpBit is a comprehensive crypto trading platform designed to facilitate perpet
 - smart contract: <a href="https://github.com/touchsky000111/pumpbit-future-v2">Trading-smart-contract</a>
 
 
-<h3><u><strong><i>Orbit Solana Trading Bot</i></strong></u> &nbsp;- Solana Volume Bot</h3>
+<h3><u><strong><i> ✅ Orbit Solana Trading Bot</i></strong></u> &nbsp;- Solana Volume Bot</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./assets/solana_trading_bot.png">
@@ -25,7 +25,7 @@ Unlock the full potential of your trading strategy with Raydium Sniper Bot, the 
 - fe-repo: <a href="https://github.com/touchsky000111/Solana-Raydium-Sniper-Bot">Solana Raydium Sniper Bot</a>
 
 
-<h3><u><strong><i>Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
+<h3><u><strong><i> ✅ Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./assets/DipHigh_project.png">
@@ -38,7 +38,7 @@ Resources
 
 - Initialise PDA for SPL-Token that other Tokens should be linked to
 
-<h3><u><strong><i>Solana Token Swap Platform</i></strong></u> &nbsp;- Dex Platform </h3>
+<h3><u><strong><i> ✅ Solana Token Swap Platform</i></strong></u> &nbsp;- Dex Platform </h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./assets/spl_token_swap.png">
@@ -48,7 +48,7 @@ This innovative platform revolutionizes SPL-Token trading by harnessing the powe
 - Live: <a href="https://spl-token-swap.vercel.app">DepHigh-Token-Swap</a>
 - user-repo: <a href="https://github.com/touchsky000111/Solana-Spl-Token-Swap-Platform">DepHigh-Token-Swap</a>
 
-<h3><u><strong><i>AI-NFT Marketing place</i></strong></u> &nbsp;- NFT Marketing place</h3>
+<h3><u><strong><i> ✅ AI-NFT Marketing place</i></strong></u> &nbsp;- NFT Marketing place</h3>
 <hr />
 
 <img align="right" width="300px" height="150px" src="./assets/AI_NFT_Marketplace.png">
@@ -58,7 +58,7 @@ This project is a smart contract for an NFT marketing place platform on Ethereum
 - Live: <a href="https://tweet2earn.xyz">nfprompt.io</a>
 - repo: <a href="https://github.com/touchsky000111/Ethereum-AI-NFT-Marketing-Place">AI-NFT Marketing place</a>
 
-<h3><u><strong><i>Omnibus-Wallet-mMoney Platform</i></strong></u> &nbsp; - DEX+CEX platform</h3>
+<h3><u><strong><i> ✅ Omnibus-Wallet-mMoney Platform</i></strong></u> &nbsp; - DEX+CEX platform</h3>
 <hr />
 
 <img align="right" width="300px" src="./assets/Omnibus.png">
@@ -74,7 +74,7 @@ Features
 - Balance Reconciliation: Track and reconcile on-chain and off-chain balances
 - repo: <a href="https://github.com/touchsky000111/Omnibus-Wallet-mMoney/">Omnibus Wallet</a>
 
-<h3><u><strong><i>Telegram mini app Game</i></strong></u> &nbsp; - Binance Smart Chain</h3>
+<h3><u><strong><i> ✅ Telegram mini app Game</i></strong></u> &nbsp; - Binance Smart Chain</h3>
 <hr />
 <img align="right" width="300px" src="./assets/mini-project-1.png">
  This innovative mini app seamlessly blends entertainment and opportunity, making it the perfect launchpad for our upcoming token. Don’t miss your chance to be part of a vibrant community and secure early access to valuable tokens. Join now and turn your gameplay into real-world gains!
@@ -87,7 +87,7 @@ Features
 - Fe-repo: <a href="https://github.com/touchsky000111/Opullenx-TG-mini-app-Bot-Backend">Telegram Mini app Game</a>
 
 
-<h3><u><strong><i> Solana Mev Bot</i></strong></u> &nbsp; - Solana</h3>
+<h3><u><strong><i> ✅ Solana Mev Bot</i></strong></u> &nbsp; - Solana</h3>
 
 <hr />
 
@@ -101,7 +101,7 @@ This high-performance MEV bot delivers strategic edge through validator-node-lev
 - Backend repo: <a href="https://github.com/touchsky000111/sprite-box-backend">Spritebox-brontend</a>
 
 
-<h3><u><strong><i>Pepe NFT Generate app</i></strong></u> &nbsp;(Ethereum)</h3>
+<h3><u><strong><i> ✅ Pepe NFT Generate app</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
 This is a NFT Generate Project on Ethereum
@@ -118,7 +118,7 @@ Token is ERC-721 and ERC-1155 standard in Openzepplin.
   - frontend repo: <a href="https://github.com/touchsky000111/monopoly-frontend">monopoly-frontend</a>
 
 
-<h3><u><strong><i>Bull Token Pre-sale Platform</i></strong></u> &nbsp;(Binance Smart Chain)</h3>
+<h3><u><strong><i> ✅ Bull Token Pre-sale Platform</i></strong></u> &nbsp;(Binance Smart Chain)</h3>
 <hr />
 
 <img align="right" width="300px" src="./assets/BTCBullToken.png">
@@ -131,7 +131,7 @@ Token is ERC-721 and ERC-1155 standard in Openzepplin.
 
 
 
-<h3><u><strong><i>Fantasy Pepe</i></strong></u> &nbsp;(Ethereum)</h3>
+<h3><u><strong><i> ✅ Fantasy Pepe</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
 This project is Presale and Staking Platform for Pepe coin on Ethereum and Binance Smart chaain
