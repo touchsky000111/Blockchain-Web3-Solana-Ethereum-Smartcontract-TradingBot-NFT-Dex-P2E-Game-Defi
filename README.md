@@ -58,7 +58,7 @@ This project is a smart contract for an NFT marketing place platform on Ethereum
 - Live: <a href="https://tweet2earn.xyz">nfprompt.io</a>
 - repo: <a href="https://github.com/touchsky000111/Ethereum-AI-NFT-Marketing-Place">AI-NFT Marketing place</a>
 
-<h3><u><strong><i> ✅ Omnibus-Wallet-mMoney Platform</i></strong></u> &nbsp; - DEX+CEX platform</h3>
+<h3><u><strong><i> ✅ Omnibus-Wallet-mMoney Platform</i></strong></u> &nbsp; - DeFi System</h3>
 <hr />
 
 <img align="right" width="300px" src="./assets/Omnibus.png">
