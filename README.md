@@ -1,4 +1,16 @@
 # ✌𝓟𝓻𝓮𝓿𝓲𝓸𝓾𝓼 𝓑𝓵𝓸𝓬𝓴𝓬𝓱𝓪𝓲𝓷 𝓟𝓻𝓸𝓳𝓮𝓬𝓽✌
+#  ✅𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆:
+<p> 
+    <a href="mailto:quansera.dane@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <!-- <a href="https://x.com/" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
+    <a href="https://discordapp.com/users/279769568258293761" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/touchsky000111" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+        
 
 As you can see here, I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
