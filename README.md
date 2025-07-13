@@ -18,7 +18,7 @@ As you can see here, I have built several NFT/Blockchain projects including NFT 
 <h3><u><strong><i> ✅ Perpetual Contract crypto Trading Platform on Ethereum</i></strong></u> &nbsp;- Trading Platform</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="./assets/crypto_marketplace.png">
+<img align="right" width="300px" height="200px" src="./assets/crypto_marketplace.gif">
 
 PumpBit is a comprehensive crypto trading platform designed to facilitate perpetual contract trading on the B2 network and offer a staking feature for liquidity pools. The platform is built using Next.js for the frontend, Node.js for the backend, and utilizes Hardhat for smart contract development. The backend integrates with the Binance API to fetch real-time cryptocurrency prices.
 
@@ -40,7 +40,7 @@ Unlock the full potential of your trading strategy with Raydium Sniper Bot, the 
 <h3><u><strong><i> ✅ Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="./assets/DipHigh_project.png">
+<img align="right" width="300px" height="200px" src="./assets/DipHigh_project.gif">
 
 Check out this Ethereum contract, just for the use-case of the program: https://github.com/touchsky000111/Solana-Smart-Contract-DipHigh-Staking
 
@@ -53,7 +53,7 @@ Resources
 <h3><u><strong><i> ✅ Solana Token Swap Platform</i></strong></u> &nbsp;- Dex Platform </h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="./assets/spl_token_swap.png">
+<img align="right" width="300px" height="200px" src="./assets/spl_token_swap.gif">
 
 This innovative platform revolutionizes SPL-Token trading by harnessing the power of Solana and Web3.js, providing a seamless and efficient swapping experience. Built with the latest Next.js version 14.0, it combines cutting-edge frontend capabilities with Solana's lightning-fast blockchain, ensuring fast, secure, and user-friendly transactions
 
@@ -148,7 +148,7 @@ Token is ERC-721 and ERC-1155 standard in Openzepplin.
 
 This project is Presale and Staking Platform for Pepe coin on Ethereum and Binance Smart chaain
 
-<img align="right" width="300px" src="./assets/fantasy-pepepng.png">
+<img align="right" width="300px" src="./assets/fantasy-pepepng.gif">
 
 - Demo: <a href="https://fepe-site.vercel.app">Fantasy Pepe</a>
 - Live: <a href="https://fantasypepe.com/">Fantasy Pepe</a>
