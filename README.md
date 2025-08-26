@@ -23,8 +23,8 @@ PumpBit is a comprehensive crypto trading platform designed to facilitate perpet
 
 Unlock the full potential of your trading strategy with Raydium Sniper Bot, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
-- fe-repo: <a href="https://github.com/touchsky000111/Solana-Raydium-Sniper-Bot">Solana Raydium Sniper Bot</a>
-
+- fe-repo: <a href="https://github.com/touchsky000111/Crypto-Casino">Solana Raydium Sniper Bot</a>
+- Live: <a href="https://redowex.com">Crypto Casino</a>
 <h3><u><strong><i> ✅ Crypto Casino Game</i></strong></u> &nbsp;- P2E Game</h3>
 <hr />
 
