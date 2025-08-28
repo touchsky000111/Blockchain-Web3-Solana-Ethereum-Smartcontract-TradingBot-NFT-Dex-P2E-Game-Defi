@@ -31,7 +31,8 @@ Unlock the full potential of your trading strategy with Raydium Sniper Bot, the 
 
 A crypto casino game lets players wager and win using digital currencies like Bitcoin or Ethereum, offering fast, secure, and anonymous transactions. These games combine traditional casino entertainment with blockchain technology for fairness and transparency.
 
-- fe-repo: <a href="https://github.com/touchsky000111/Solana-Raydium-Sniper-Bot">Solana Raydium Sniper Bot</a>
+- fe-repo: <a href="https://github.com/touchsky000111/crypto-casino">Crypto Casino Game</a>
+- live: <a href="https://redowex.com">Crypto Casino Game</a>
 
 
 <h3><u><strong><i> ✅ Staking Solana program</i></strong></u> &nbsp;- Rust smart contract</h3>
