@@ -162,6 +162,25 @@ This project is Presale and Staking Platform for Pepe coin on Ethereum and Binan
   - Contract: <a href="https://github.com/touchsky000111/pepe-mint-contract-avax">pepe-mint-contract-avax</a>
 
 
+<h3><u><strong><i> ✅ DYDX Telegram Pair Trading Bot</i></strong></u> &nbsp;(mintchain)</h3>
+<hr />
+
+🚀 A high-performance Telegram trading bot powered by dYdX, designed to execute precise buy and sell orders with lightning speed. The bot seamlessly integrates with decentralized exchanges to scan market opportunities, detect new listings, and act on volatility events in real time—giving traders a competitive edge directly from their Telegram chat.
+<img align="right" width="300px" src="./assets/dydx_bot.png">
+
+✨ Key Features
+
+- ⚡ Ultra-fast execution – optimized for dYdX’s low-latency perpetuals trading
+
+- 🔍 Real-time market tracking – instantly monitors trading pairs and volatility shifts
+
+- 📊 Custom strategies – configurable pair-trading setups, stop loss, and take profit levels
+
+- 🤖 Smart automation – eliminates manual delays, executing trades directly from Telegram
+
+- 🔒 Secure & reliable – built with risk management checks to protect positions
+
+
 <h3><u><strong><i> ✅ Sniper Bot</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
