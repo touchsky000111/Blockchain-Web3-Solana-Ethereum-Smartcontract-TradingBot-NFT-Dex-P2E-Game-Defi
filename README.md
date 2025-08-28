@@ -162,3 +162,23 @@ This project is Presale and Staking Platform for Pepe coin on Ethereum and Binan
   - Contract: <a href="https://github.com/touchsky000111/pepe-mint-contract-avax">pepe-mint-contract-avax</a>
 
 
+<h3><u><strong><i> ✅ Sniper Bot</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This project is Presale and Staking Platform for Pepe coin on Ethereum and Binance Smart chaain
+
+<img align="right" width="300px" src="./assets/SniperBotImage.png">
+
+- Demo: <a href="https://fepe-site.vercel.app">Fantasy Pepe</a>
+- Live: <a href="https://fantasypepe.com/">Fantasy Pepe</a>
+  - Functionality
+    - 500 NFTs
+    - Mint price is 100 USDC
+    - Need to put discord Name or Id
+    - Avalanche network
+- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
+- Mainnet deployed contract address: <a href="https://mainnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Mainnet contract</a>
+- Github repo:
+  - Frontend: <a href="https://github.com/touchsky000111/Fantasy-Pepe">pepe-mint-frontend-avax</a>
+  - Contract: <a href="https://github.com/touchsky000111/pepe-mint-contract-avax">pepe-mint-contract-avax</a>
+
