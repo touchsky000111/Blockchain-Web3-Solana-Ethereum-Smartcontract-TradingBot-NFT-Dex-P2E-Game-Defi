@@ -165,20 +165,19 @@ This project is Presale and Staking Platform for Pepe coin on Ethereum and Binan
 <h3><u><strong><i> ✅ Sniper Bot</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-This project is Presale and Staking Platform for Pepe coin on Ethereum and Binance Smart chaain
-
+🚀A high-performance trading automation tool built for the Solana blockchain, designed to execute lightning-fast buy and sell orders with precision. The bot continuously scans the mempool and decentralized exchanges (DEXs) to detect newly launched tokens, front-run opportunities, and liquidity events, giving traders a competitive edge in volatile markets.
 <img align="right" width="300px" src="./assets/SniperBotImage.png">
 
-- Demo: <a href="https://fepe-site.vercel.app">Fantasy Pepe</a>
-- Live: <a href="https://fantasypepe.com/">Fantasy Pepe</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="https://mainnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Mainnet contract</a>
-- Github repo:
-  - Frontend: <a href="https://github.com/touchsky000111/Fantasy-Pepe">pepe-mint-frontend-avax</a>
-  - Contract: <a href="https://github.com/touchsky000111/pepe-mint-contract-avax">pepe-mint-contract-avax</a>
+✨ Key Features
+
+- ⚡ Ultra-fast execution – optimized for Solana’s low-latency network
+
+- 🔍 Real-time token detection – instantly identifies new listings and liquidity adds
+
+- 📊 Custom strategies – configurable entry/exit conditions, stop loss, and take profit
+
+- 🤖 Automation – removes human delay, enabling faster and smarter trades
+
+- 🔒 Secure & reliable – built with safety checks to minimize risk
+
 
